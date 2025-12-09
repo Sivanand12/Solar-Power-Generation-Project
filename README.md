@@ -50,7 +50,7 @@ The final trained XGBoost model was saved for deployment.
 
 A simple Flask API was created to load the model and generate predictions based on user inputs.
 
-👉 **Live App:** [Click here to open the Streamlit App 🚀] (https://solarpowergeneration---project-whrtqnwanpawhfeilgyrck.streamlit.app/)
+👉 **Live App:** [Click here to open the Streamlit App 🚀] (https://solar-power-generation-project-rdfwfgguselrnmhzrujkgv.streamlit.app/)
 
 # ✨ Outcome
 
